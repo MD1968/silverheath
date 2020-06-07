@@ -1,7 +1,7 @@
-### Boutique UK
+# Code Institute
 
-## (C) 2020 - Mark Dyson 
+Welcome Chris Z.,
 
-Welcome to my first e-commerce website. Created as part of my course with the Code - Insitute
+We have preinstalled all of the tools you need to get started.
 
-Using Python, Django, AWS
+Happy coding!
