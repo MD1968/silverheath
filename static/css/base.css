@@ -307,8 +307,12 @@ input[name='q']::placeholder {
     .navbar-toggler {
         padding: .6rem .6rem;
         font-size: 1rem;
-    }
+    } 
 
+    #delivery-banner {
+        margin-bottom: 20px;
+    }
+    
     #delivery-banner h4 {
         font-size: .9rem;
     }
